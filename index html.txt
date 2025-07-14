@@ -1,8 +1,0 @@
-<html>
-<head>
-    <title>  pre lab </title>
-</head>
-<body>
-         <h>first page</h>
-</body>
-</html>
